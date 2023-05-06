@@ -1,0 +1,14 @@
+{
+  "name": "my-first-project",
+  "version": "1.0.0",
+  "description": "my first repo on GH",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nina",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}

@@ -1,0 +1,1 @@
+{"mappings":"AAAA,QAAQ,GAAG,CAAC;AACZ,SAAS,cAAc,CAAC,YAAY,WAAW,GAAE","sources":["Hello.js"],"sourcesContent":["console.log(\"Czesc Ninusia\");\r\ndocument.getElementById(\"Greeting\").textContent =\"Hello\" \r\n\r\n"],"names":[],"version":3,"file":"index.a8a4324d.js.map","sourceRoot":"/__parcel_source_root/"}
